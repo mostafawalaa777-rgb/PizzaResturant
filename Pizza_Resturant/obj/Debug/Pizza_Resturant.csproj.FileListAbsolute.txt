@@ -1,0 +1,12 @@
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\bin\Debug\Pizza_Resturant.exe.config
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\bin\Debug\Pizza_Resturant.exe
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\bin\Debug\Pizza_Resturant.pdb
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\obj\Debug\Pizza_Resturant.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\obj\Debug\Pizza_Resturant.Form1.resources
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\obj\Debug\Pizza_Resturant.Properties.Resources.resources
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\obj\Debug\Pizza_Resturant.csproj.GenerateResource.cache
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\obj\Debug\Pizza_Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\obj\Debug\Pizza_Resturant.exe
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\obj\Debug\Pizza_Resturant.pdb
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\obj\Debug\Pizza_Resturant.PizzLicious.resources
+C:\Users\Ahmed\Documents\DeskTopApp\Pizza_Resturant\obj\Debug\Pizza_Resturant.PizzaOrder.resources
